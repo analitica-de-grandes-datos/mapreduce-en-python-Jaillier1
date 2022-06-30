@@ -1,7 +1,6 @@
 #
 # >>> Escriba el codigo del mapper a partir de este punto <<<
 #
-! /usr/bin/python3
 
 import sys
 
